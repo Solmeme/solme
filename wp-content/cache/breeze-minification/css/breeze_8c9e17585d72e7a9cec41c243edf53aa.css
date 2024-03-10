@@ -35050,3 +35050,7 @@ Copyright (c) 2014 Daniel Eden
         pointer-events: none
     }
 }
+
+.stake {
+    pointer-events: none;
+}
