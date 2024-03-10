@@ -35053,4 +35053,5 @@ Copyright (c) 2014 Daniel Eden
 
 .stake {
     pointer-events: none;
+    opacity: 50;
 }
