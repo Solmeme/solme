@@ -9955,7 +9955,7 @@
         background-position: center;
         display: block;
         background-repeat: no-repeat;
-        background-image: url(//bananakingdom.com/wp-content/themes/salient/css/build/../../img/icons/loading-white-bg.gif)
+        background-image: url(../../../../wp-content/themes/salient/img/icons/loading-white-bg.gif)
     }
     @keyframes spinning_animation {
         0% {
